@@ -112,3 +112,29 @@ https://tinyurl.com/galibeEventManagementDocs
    ```
 
    The frontend will be available at [http://localhost:4200](http://localhost:4200)
+   
+
+⚙️ Preloaded Data
+
+For easy usage, duplicate data has been populated using a script.
+
+🔐 Admin Credentials
+
+Username: admin
+
+Password: admin
+
+
+👥 Predefined Users
+
+There are 5 predefined users included in the system:
+
+User ID: userid1 — Password: 123123
+
+User ID: userid2 — Password: 123123
+
+User ID: userid3 — Password: 123123
+
+User ID: userid4 — Password: 123123
+
+User ID: userid5 — Password: 123123
