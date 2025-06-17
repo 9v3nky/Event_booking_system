@@ -1,6 +1,8 @@
 # 🎉 Event Booking System
 
 A full-stack web application that allows users to book events in their preferred categories. Admins can create daily slots between 9 AM to 6 PM, ensuring no overlapping within the same category. Users can then book available slots based on their preferences.
+Note: Please visit the User Guide or Documentation using the link below:
+https://tinyurl.com/galibeEventManagementDocs
 
 ---
 
